@@ -21,6 +21,6 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "neght": "^1.0.0"
+    "neght": "1.0.2"
   }
 }

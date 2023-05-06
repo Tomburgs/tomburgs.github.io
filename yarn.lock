@@ -1689,10 +1689,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-neght@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/neght/-/neght-1.0.0.tgz#82a0c9aa99c68f01c11f08e278fcb2214485bb33"
-  integrity sha512-0j8SxyfIuTMKPX8fBIs9hWWMiW/n+qUN4S+AzRQpRQ9j8f+XSXS9qWrC1jqegnEbkSp/mlhnzpytBQ/N+0j9qA==
+neght@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/neght/-/neght-1.0.2.tgz#55bb4b23f9c7554b8b341828403392496d4f35c5"
+  integrity sha512-p4FhgEoDIRaeUP9kSKkpByD5gkmuJLDjJxDK0rgdETDKPbPmlaJbooeGAjyOIFgbaw3Aqw+K75I3b3xz1SnD8Q==
   dependencies:
     glob "^10.2.2"
     shelljs "^0.8.5"
